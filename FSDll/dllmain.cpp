@@ -15,11 +15,4 @@ BOOL APIENTRY DllMain( HMODULE hModule,
         break;
     }
     return TRUE;
-}
-
-
-
-
-
-//мастер тест 2
-//мастер тест
+}//тестовая ветка
