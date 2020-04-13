@@ -15,5 +15,4 @@ BOOL APIENTRY DllMain( HMODULE hModule,
         break;
     }
     return TRUE;
-}
-//тестовая ветка
+}//тестовая ветка
