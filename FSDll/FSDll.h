@@ -41,3 +41,6 @@ typedef struct
 extern "C++" FSDLL_API bool GetInfo(string rootPathName, NTFS * pBoot);
 extern "C++" FSDLL_API void PrintInfo(NTFS pBoot);
 extern "C++" FSDLL_API string getNameFS(string fileName);
+
+
+//test
