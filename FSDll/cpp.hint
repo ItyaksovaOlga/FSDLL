@@ -1,0 +1,2 @@
+﻿#define FSDLL_API __declspec(dllexport)
+#define FSDLL_API __declspec(dllimport)
