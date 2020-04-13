@@ -118,3 +118,7 @@ bool GetInfo(string rootPathName, NTFS* pBoot)
 
     return true;
 };
+
+
+
+//тест
